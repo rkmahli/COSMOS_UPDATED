@@ -1,0 +1,6 @@
+CONFIG_FILE_NAME=policy-service.properties
+DAO_PROJECT_NAME=policy-dao
+MODEL_PROJECT_NAME=policy-model
+SERVICE_PROJECT_NAME=policy-service
+TARGET_ENV_CONTAINER=tomcat
+eclipse.preferences.version=1

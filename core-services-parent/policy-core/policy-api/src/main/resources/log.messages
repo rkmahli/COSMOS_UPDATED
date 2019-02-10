@@ -1,0 +1,15 @@
+policy-service.log.message.key.1 = Received request for getProductsUsingGET
+policy-service.log.message.key.2 = Data retrieved
+policy-service.log.message.key.3 = Failed to fetch record
+policy-service.log.message.key.4 = Received request for getPlansUsingGET
+policy-service.log.message.key.5 = Received request for getQuestionsUsingGET
+policy-service.log.message.key.6 = Received request for saveQuoteUsingPOST
+policy-service.log.message.key.7 = Successfully created new resource
+policy-service.log.message.key.8 = Received request for errorHtmlUsingGET
+policy-service.log.message.key.9 = Received request for errorHtmlUsingPOST
+policy-service.log.message.key.10 = Received request for errorHtmlUsingPUT
+policy-service.log.message.key.11 = Successfully updated
+policy-service.log.message.key.12 = Failed to update
+policy-service.log.message.key.13 = Received request for errorHtmlUsingDELETE
+policy-service.log.message.key.14 = Successfully deleted
+policy-service.log.message.key.15 = Failed to delete

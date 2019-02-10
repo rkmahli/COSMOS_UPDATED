@@ -1,0 +1,10 @@
+CACHE_IMPL=Hazelcast
+CALL_TRACE=Zipkin
+CIRCUIT_BREAKER=Hystrix
+CONTAINER=
+DISCOVERY_SERVER=Eureka
+LOG_MONITOR=ELK
+MESSAGE_BROKER=ActiveMQ
+REST_IMPL=Spring REST API
+TARGET_ENV=SpringCloud
+eclipse.preferences.version=1
